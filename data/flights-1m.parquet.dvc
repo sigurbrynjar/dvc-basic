@@ -1,0 +1,5 @@
+outs:
+- md5: 0e3951a0108bc76f25486c1c128581c5
+  size: 7301503
+  hash: md5
+  path: flights-1m.parquet
